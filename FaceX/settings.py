@@ -103,7 +103,7 @@ AUTHENTICATION_BACKENDS = [
 
 ]
 
-WSGI_APPLICATION = 'facex.wsgi.application'
+WSGI_APPLICATION = 'FaceX.wsgi.application'
 
 
 # Database
